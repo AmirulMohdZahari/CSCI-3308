@@ -1,11 +1,5 @@
-# Project Title
+# Homework 1: HTML, CSS, Bootstrap
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+* [Part 1: HTML Web Page](mypage.html) 
+* [Part 2: Bootstrap](mypage_bootstrap.html) 
+* [Part 3: Bootstrap and HTML](form.html)
